@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class Q7{
+ class MPG{
      public static void main(String [] args){
          Scanner input = new Scanner(System.in);
 
