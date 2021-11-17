@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tip {
+public class Tips {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter charge of food: ");
